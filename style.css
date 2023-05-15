@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100%;
+    width:10%;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5),rgba(255, 255, 0, 0.5)),url(images\a20230512050525.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
